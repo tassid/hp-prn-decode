@@ -1,7 +1,8 @@
-[package]
+﻿[package]
 name = "hp-prn-decode"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 description = "Decodes a captured HP PCL3GUI print job (.prn) back into a PNG"
 
 [dependencies]
